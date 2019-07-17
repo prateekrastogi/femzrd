@@ -7,9 +7,6 @@
 
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import Image from "gatsby-image"
-
-import { rhythm } from "../utils/typography"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -872,8 +869,6 @@ const Bio = () => {
         warranty or assumption of liability accompanies a copy of the Program in
         return for a fee.
       </p>
-
-      <p>END OF TERMS AND CONDITIONS</p>
     </div>
   )
 }
