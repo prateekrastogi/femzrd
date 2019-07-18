@@ -1,12 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `femzrd charter`,
+    title: `famzrd charter`,
     author: `Prateek Rastogi`,
-    description: `femzrd charter`,
-    siteUrl: `https://femzrd.com/`,
-    social: {
-      twitter: `femzrd`,
-    },
+    description: `famzrd charter`,
+    siteUrl: `https://famzrd.com/`
   },
   plugins: [
     {
@@ -43,19 +40,19 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-144078892-1`,
+        trackingId: `UA-144097542-1`,
       },
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `femzrd`,
-        short_name: `femzrd`,
+        name: `famzrd`,
+        short_name: `famzrd`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#‎85bb65`,
+        theme_color: `#722F37`,
         display: `minimal-ui`,
-        icon: `content/assets/femzrd.png`,
+        icon: `content/assets/famzrd.png`,
       },
     },
     `gatsby-plugin-offline`,
