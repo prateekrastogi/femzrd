@@ -3,7 +3,10 @@ module.exports = {
     title: `famzrd charter`,
     author: `Prateek Rastogi`,
     description: `famzrd charter`,
-    siteUrl: `https://famzrd.com/`
+    siteUrl: `https://famzrd.com/`,
+    social: {
+      twitter: `femzrd`
+    }
   },
   plugins: [
     {
