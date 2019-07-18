@@ -53,7 +53,7 @@ module.exports = {
         short_name: `femzrd`,
         start_url: `/`,
         background_color: `#FFFFFF`,
-        theme_color: `#‎85BB65`,
+        theme_color: `#‎85bb65`,
         display: `minimal-ui`,
         icon: `content/assets/femzrd.png`,
       },
