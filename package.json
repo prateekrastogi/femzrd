@@ -1,12 +1,10 @@
 {
   "name": "femzrd-famzrd",
   "private": true,
-  "description": "femzrd-famzrd",
+  "description": "femzrd-famzrd Common Repo",
   "version": "0.1.0",
   "author": "Prateek Rastogi <prastogi34@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  
   "dependencies": {
     "gatsby": "^2.13.61",
     "gatsby-image": "^2.2.8",
