@@ -1,12 +1,10 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "femzrd-famzrd",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "femzrd-famzrd Common Repo",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "Prateek Rastogi <prastogi34@gmail.com>",
+  
   "dependencies": {
     "gatsby": "^2.13.61",
     "gatsby-image": "^2.2.8",
