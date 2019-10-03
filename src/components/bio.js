@@ -32,7 +32,7 @@ const Bio = () => {
       <p>
         In order to facilitate discussions, meetings and the conduct of business
         between the Parties with respect to the Purpose (as hereinafter defined)
-        it may be necessary for the Dicloser to disclose Confidential
+        it may be necessary for the Discloser to disclose Confidential
         Information (as hereinafter defined) to the Recipient. The Parties have
         entered into this Agreement to ensure that the Confidential Information
         remains strictly confidential so long as this Agreement survives in
