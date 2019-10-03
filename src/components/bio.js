@@ -80,7 +80,7 @@ const Bio = () => {
             Recipient without obligation of confidentiality;
           </p>
           <p>
-            © becomes lawfully and generally available to the public other than
+            (c) becomes lawfully and generally available to the public other than
             as a result of a breach hereof by the Recipient;
           </p>
           <p>
@@ -121,7 +121,7 @@ const Bio = () => {
             officers, employees, contractors, legal representatives and
             financial advisors that (A) have a need to know the Confidential
             Information for the Purpose, (B) have been informed of Recipient’s
-            obligations hereunder, and © have entered into a confidentiality
+            obligations hereunder, and (C) have entered into a confidentiality
             agreement, or are bound by confidentiality obligations, with the
             Recipient that contain confidentiality and restricted use
             obligations that are consistent with the terms of this Agreement and
@@ -170,7 +170,7 @@ const Bio = () => {
             prevent commingling; and
           </p>
           <p>
-            © Recipient shall not alter, modify, breakdown or disassemble any
+            (c) Recipient shall not alter, modify, breakdown or disassemble any
             materials or compositions containing or constituting Confidential
             Information of the Discloser.
           </p>
